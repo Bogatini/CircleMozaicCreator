@@ -4,7 +4,7 @@ A python class that allows for the creation of grayscale circle mozaics, along w
 Required packages: numpy and cv2
 
 
-Example images:
+Example outputs:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/inputImageColour.jpg" alt="input image" width="400"/>
