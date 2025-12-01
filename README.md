@@ -6,5 +6,7 @@ Required packages: numpy and cv2
 
 Example images:
 
-<img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/inputImageColour.jpg" alt="input image" width="400"/>
-<img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/outputImage.png" alt="output image" width="400"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/inputImageColour.jpg" alt="input image" width="400"/>
+  <img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/outputImage.png" alt="output image" width="400"/>
+</div>
