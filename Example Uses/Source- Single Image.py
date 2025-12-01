@@ -1,6 +1,5 @@
 from CircleMozaicCreator import CircleMozaicCreator
 import cv2
-import random
 import tkinter as tk
 from tkinter import filedialog
 
@@ -24,14 +23,15 @@ width, height = inputImg.shape[0], inputImg.shape[1]
 #inputImg = cv2.resize(inputImg, (width*2,height*2))
 
 editor = CircleMozaicCreator(10)
-outputImg = editor.render(inputImg)
+editor.render(inputImg)
+editor.preview()
+editor.save("outputImage.png")
 
 #outputImg = cv2.resize(outputImg, (width,height))
-
-cv2.imwrite(f"newImg_{random.randint(1000,9999)}.png", outputImg)
 
 cv2.imshow("Output", outputImg)
 cv2.waitKey(0)
 
 # clean up any window objs
+
 cv2.destroyAllWindows()
