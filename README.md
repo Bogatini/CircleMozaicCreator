@@ -12,6 +12,6 @@ Example images:
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/colour_example_output.gif" alt="input .mp4" width="400"/>
-  <img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/colour_example_input.gif" alt="output .mp4" width="400"/>
+  <img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/colour_example_input.gif" alt="input .mp4" width="400"/>
+  <img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/colour_example_output.gif" alt="output .mp4" width="400"/>
 </div>
