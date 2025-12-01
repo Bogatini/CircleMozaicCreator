@@ -5,5 +5,9 @@ Required packages: numpy and cv2
 
 
 Example images:
-![RGB image passed into the mozaic creator. It depicts Marilyn Monroe](Example Uses/Example%20Images/inputImageColour.jpg)
-![Grayscale image produced by the mozaic creator. It depicts Marilyn Monroe as a grid of circles](Example%20Uses/Example Images/outputImage.png)
+![RGB image passed into the mozaic creator. It depicts Marilyn Monroe](Example Uses/Example%20Images/inputImageColour.jpg "input image")
+![Grayscale image produced by the mozaic creator. It depicts Marilyn Monroe as a grid of circles](Example%20Uses/Example Images/outputImage.png "output image")
+
+![Example](https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/inputImageColour.jpg "output image")
+
+
