@@ -4,7 +4,7 @@ A python class that allows for the creation of grayscale circle mozaics, along w
 Required packages: numpy and cv2
 
 
-Example outputs:
+## Example outputs:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/inputImageColour.jpg" alt="input image" width="400"/>
@@ -15,3 +15,7 @@ Example outputs:
   <img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/colour_example_input.gif" alt="input .mp4" width="400"/>
   <img src="https://github.com/Bogatini/CircleMozaicCreator/blob/main/Example%20Uses/Example%20Images/colour_example_output.gif" alt="output .mp4" width="400"/>
 </div>
+
+## Example Uses
+The extra file contains three example uses of the CircleMozaicCreator class.
+These take different inputs and convert them using the class.
